@@ -1,0 +1,51 @@
+/* Navbar */
+
+.nav-link{
+    color: #2C6DCF;
+    font-family: Jetbrains Mono;
+    font-weight: bold;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.navbar {
+    padding: 25px 50px;
+    background-color: #E8F1FF;
+}
+
+.button {
+    background-color: #2C6DCF;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+    align-items: center;
+    margin-top: 12px;
+
+
+    font-family: Jetbrains Mono;
+    font-weight: bold;
+}
+
+/* Hero */
+
+header {
+    height: auto;
+    background-image: url(../images/dive.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.1);
+
+}
+
+header h1 {
+    font-family: Krona One;
+    color: white;
+}
+
+header p {
+    font-family: Jost;
+    color: white;
+}
